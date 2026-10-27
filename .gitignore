@@ -1,0 +1,15 @@
+**/build/
+**/.dart_tool/
+.pub/
+.packages
+
+.vscode/*
+!.vscode/launch.json
+!.vscode/settings.json
+.idea/
+
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.log
